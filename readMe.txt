@@ -10,6 +10,8 @@ Lots more left to learn and I will continue to by making stuff hopefully.
 ok so the part that messed me up is cross-origins resource sharing
 without the cors plug in on google chrome installed and enabled this project link wont work as expected
 
+MUST HAVE THE CORS PLUGIN FOR GOOGLE CHROME!! enable it
+
 the link is
 
 https://blogit-7b9d0.firebaseapp.com
