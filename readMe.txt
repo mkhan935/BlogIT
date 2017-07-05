@@ -20,25 +20,25 @@ the react front-end is hosted on firebase, I wanted to host it on s3 as well but
 project I am working on.
 
 This is how the homePage Looks
-![homeview](https://user-images.githubusercontent.com/16232033/27844807-cb9bed1c-60f4-11e7-941c-50c6747e1c9b.png)
+https://user-images.githubusercontent.com/16232033/27845233-305f603e-60fb-11e7-89de-8d6b643a1b30.png
 
 This is how the sign up page looks like
-![signupview](https://user-images.githubusercontent.com/16232033/27844842-44d5d062-60f5-11e7-8ca0-3f9d11985365.png)
+https://user-images.githubusercontent.com/16232033/27845257-7880ed88-60fb-11e7-8603-28810bb25c28.png
 
 This is how the sign in page looks like
-![signinview](https://user-images.githubusercontent.com/16232033/27844844-55fe0760-60f5-11e7-9fe3-4aeb7b376171.png)
+https://user-images.githubusercontent.com/16232033/27845254-68dbc04c-60fb-11e7-9a3f-dd5aa1ead5e6.png
 
 
 this is how it looks when a logged in user views the home page, they see their global feed which list all the posts that occured since last login
-![loggedinglobalfeed](https://user-images.githubusercontent.com/16232033/27844813-e303a5a8-60f4-11e7-8b44-e216df17d28a.png)
+https://user-images.githubusercontent.com/16232033/27845239-4581a3e6-60fb-11e7-956b-40a64af8d84b.png
 
 and they see their own feed, which contains post by people they follow
-![loggedinyourfeed](https://user-images.githubusercontent.com/16232033/27844824-0ea6c604-60f5-11e7-9056-ef4ac06d96ef.png)
+https://user-images.githubusercontent.com/16232033/27845245-569e2c80-60fb-11e7-87b9-a3698bd7994f.png
 
 they can click on other users, follow them, like their posts, and comment on them.
 
 
 so this is how it looks when a logged in user wants to create a blog post
-![articleview](https://user-images.githubusercontent.com/16232033/27844790-87a93240-60f4-11e7-9a0c-5a457cd7a5e7.png)
+https://user-images.githubusercontent.com/16232033/27845226-128d9e04-60fb-11e7-9049-66cae90b5df5.png
 
 
